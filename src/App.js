@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router } from 'react-router-dom';
+import { ThemeProvider } from '@mui/material/styles';
 
-function App() {
+import customTheme from './utils/customTheme';
+import Navbar from './components/Layout/Navbar';
+import Introduction from './components/Introduction/Introduction';
+import Skills from './components/Skills/Skills';
+import ContactForm from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <ThemeProvider theme={customTheme()}>
+        <Router >
+          <Navbar />
+          <Introduction />
+          <Skills />
+          <ContactForm />
+          <Footer />
+        </Router>
+      </ThemeProvider>
+    </>
   );
 }
 
