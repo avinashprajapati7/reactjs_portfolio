@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/reactjs-portfolio/static/js/main.3f98a413.js",
-    "static/media/self-img.jpg": "/reactjs-portfolio/static/media/self-img.98170a6a67faab79fa3b.jpg",
-    "static/media/contact.png": "/reactjs-portfolio/static/media/contact.3f665eb8fa37e406e3ef.png",
-    "static/media/reactjs.svg": "/reactjs-portfolio/static/media/reactjs.b13b9de6d1e2afd0af2bfb16c7281f39.svg",
-    "static/media/redux.svg": "/reactjs-portfolio/static/media/redux.7704ea702b3d2b30acffc4660e90ca9b.svg",
-    "static/media/javascript.svg": "/reactjs-portfolio/static/media/javascript.1b2759f50bece840e12d591d09e34a7d.svg",
-    "index.html": "/reactjs-portfolio/index.html",
-    "static/media/mui.svg": "/reactjs-portfolio/static/media/mui.b45776fb29e80a04fe8a1f4e944e7ae8.svg",
-    "static/media/typescript.svg": "/reactjs-portfolio/static/media/typescript.b6a67c48c000563cf9b19d2e171feadc.svg",
-    "static/media/css.svg": "/reactjs-portfolio/static/media/css.b0696b45b1583f1dcd92f8fc11f764e1.svg",
-    "static/media/html.svg": "/reactjs-portfolio/static/media/html.10080bf9eca0dcafeb4b353b2ce579ea.svg",
-    "main.3f98a413.js.map": "/reactjs-portfolio/static/js/main.3f98a413.js.map"
+    "main.js": "/reactjs_portfolio/static/js/main.d0149346.js",
+    "static/media/self-img.jpg": "/reactjs_portfolio/static/media/self-img.98170a6a67faab79fa3b.jpg",
+    "static/media/contact.png": "/reactjs_portfolio/static/media/contact.3f665eb8fa37e406e3ef.png",
+    "static/media/reactjs.svg": "/reactjs_portfolio/static/media/reactjs.b13b9de6d1e2afd0af2bfb16c7281f39.svg",
+    "static/media/redux.svg": "/reactjs_portfolio/static/media/redux.7704ea702b3d2b30acffc4660e90ca9b.svg",
+    "static/media/javascript.svg": "/reactjs_portfolio/static/media/javascript.1b2759f50bece840e12d591d09e34a7d.svg",
+    "index.html": "/reactjs_portfolio/index.html",
+    "static/media/mui.svg": "/reactjs_portfolio/static/media/mui.b45776fb29e80a04fe8a1f4e944e7ae8.svg",
+    "static/media/typescript.svg": "/reactjs_portfolio/static/media/typescript.b6a67c48c000563cf9b19d2e171feadc.svg",
+    "static/media/css.svg": "/reactjs_portfolio/static/media/css.b0696b45b1583f1dcd92f8fc11f764e1.svg",
+    "static/media/html.svg": "/reactjs_portfolio/static/media/html.10080bf9eca0dcafeb4b353b2ce579ea.svg",
+    "main.d0149346.js.map": "/reactjs_portfolio/static/js/main.d0149346.js.map"
   },
   "entrypoints": [
-    "static/js/main.3f98a413.js"
+    "static/js/main.d0149346.js"
   ]
 }
